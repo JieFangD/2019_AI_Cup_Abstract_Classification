@@ -49,6 +49,6 @@ Chieh-Fang Teng:
         + jeff@access.ee.ntu.edu.tw
         + d06943020@ntu.edu.tw
 Yi-Ta Chen:
-	+ edan@access.ee.ntu.edu.tw
-	+ d06943017@ntu.edu.tw
+        + edan@access.ee.ntu.edu.tw
+        + d06943017@ntu.edu.tw
    ```
