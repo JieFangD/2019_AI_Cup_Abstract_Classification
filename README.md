@@ -35,7 +35,7 @@ In this task, we are given a set of papers from arXiv. Given title, abstract, au
   Well-trained Model
   - src/well-trained-model
 
-## How to reproduce train result?
+## How to Reproduce Results?
 1. Download [Scibert](https://s3-us-west-2.amazonaws.com/ai2-s2-research/scibert/pytorch_models/scibert_scivocab_uncased.tar) model
 2. You can train by yourself through "Training (SciBert-DNN).ipynb" or utilize the provided well-trained model
 3. Use "Testing.ipynb" to predict testing data
