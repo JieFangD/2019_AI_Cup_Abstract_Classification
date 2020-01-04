@@ -1,4 +1,4 @@
-# 2019_AI_CUP_Abstract_Classification
+# [2019_AI_CUP_Abstract_Classification](https://tbrain.trendmicro.com.tw/Competitions/Details/9)
 
 ## Competition Description
 In this task, we are given a set of papers from arXiv. Given title, abstract, author, category, and date from paper, we are asked to predict the paper's type in four classes: theoretical paper, engineering paper, empirical paper, or others, where the paper can belong to multiple classes.
