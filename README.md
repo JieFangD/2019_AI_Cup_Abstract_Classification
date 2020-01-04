@@ -40,4 +40,15 @@ In this task, we are given a set of papers from arXiv. Given title, abstract, au
 2. You can train by yourself through "Training (SciBert-DNN).ipynb" or utilize the provided well-trained model
 3. Use "Testing.ipynb" to predict testing data
 4. Boost all the results to improve prediction accuracy
-5. For more details, please refer to the provided presentation and report files
+5. For more details, please refer to the provided [presentation](https://github.com/JieFangD/2019_AI_Cup_Abstract_Classification/blob/master/Presentation.pdf) and [report](https://github.com/JieFangD/2019_AI_Cup_Abstract_Classification/blob/master/Report.pdf) files
+
+## Contact Information
+
+   ```
+Chieh-Fang Teng:
+        + jeff@access.ee.ntu.edu.tw
+        + d06943020@ntu.edu.tw
+Yi-Ta Chen:
+	+ edan@access.ee.ntu.edu.tw
+	+ d06943017@ntu.edu.tw
+   ```
